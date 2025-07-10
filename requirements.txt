@@ -1,0 +1,5 @@
+selenium
+flask
+bs4
+undetected-chromedriver
+pyairtable
